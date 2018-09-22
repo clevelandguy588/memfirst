@@ -14,6 +14,8 @@ For now, this is a simplified golf course tee-time reservation system. It valida
 
 DOCKER DEVELOPMENT ENVIRONMENT SETUP
 
+NOTE: You MUST have Docker and docker-compose installed and running
+
 1. Open a new Terminal window and cd to your cloned /memfirst repository
 
 2. Run the following command:
