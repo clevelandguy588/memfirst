@@ -94,7 +94,7 @@ include "confirmationselect.php" ?>
     <tr>
       <td><a href="index.php">New Reservation</a></td>
       <td>|</td>
-      <td><a href="reservationtable.php">View Existing Reservations</a></td>
+      <td><a href="reservationtable.php">View Tee Sheet</a></td>
     </tr>
   </table>
 </body>

@@ -161,13 +161,13 @@
   </tr>
 </table>
 </div>
-  <input type="submit" name="submitButton" value="Register">
+  <input type="submit" name="submitButton" value="Submit">
   </form>
   <br>
   <br>
   <table>
     <tr>
-      <td><a href="reservationtable.php">View Existing Reservations</a></td>
+      <td><a href="reservationtable.php">View Tee Sheet</a></td>
     </tr>
   </table>
 </body>

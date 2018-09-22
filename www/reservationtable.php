@@ -6,7 +6,7 @@
 <body>
 <div id="Header">
   <h1>MembersFirst Country Club</h1>
-  <h2>Tee Time Reservations</h2>
+  <h2>Tee Sheet</h2>
   <br>
   <h3>Existing Reservations</h3>
 </div>
