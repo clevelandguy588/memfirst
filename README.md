@@ -23,4 +23,4 @@ DOCKER DEVELOPMENT ENVIRONMENT SETUP
 
 3. You can then visit http://localhost from a browser to view the running memfirst application
 
-4. To view changes you make to the code, press Ctrl+C in the Terminal window running the application to 'gracefully' stop the running containers and re-run the command from step 2. 
+4. To view changes you make to the code, press Ctrl+C in the Terminal window running the application to 'gracefully' stop the running containers and re-run the command from step 2 
