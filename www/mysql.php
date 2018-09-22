@@ -1,8 +1,8 @@
 <?php
  //INITIALIZE VARS
 $conn = $sql = "";
-// CREATE CONNECTION
-$conn = new mysqli("172.19.0.2", "root", "docker");
+// CREATE CONNECTION WITH RUNNING DB CONTAINER
+$conn = new mysqli("memfirst_db_1", "root", "docker");
 // CHECK CONNECTION
 if ($conn->connect_error) {
     die("Connection failed: " . $conn->connect_error);
